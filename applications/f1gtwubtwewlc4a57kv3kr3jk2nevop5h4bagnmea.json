@@ -39,8 +39,8 @@
     "Validated At": "2024-06-14 04:40:43.305144682 UTC",
     "Validated By": "OpenGate01",
     "Active": true,
-    "Updated At": "2024-06-14 06:47:38.243306728 UTC",
-    "Active Request ID": "ebbb808e-7bd7-4a4b-a409-7cedad4fe0e0",
+    "Updated At": "2024-08-04 09:27:13.047097332 UTC",
+    "Active Request ID": "7b1ad3f6-9da7-4d5b-a177-a55bb1ad398b",
     "On Chain Address": "f1gtwubtwewlc4a57kv3kr3jk2nevop5h4bagnmea",
     "Multisig Address": "false",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
           "Created At": "2024-06-14 06:47:35.278000000 UTC",
           "Message CID": "bafy2bzacecxou3legcjbdkyva62s7ozrbzby7u7l6ewjeg5kzi6cb6n7niamg"
+        }
+      ]
+    },
+    {
+      "ID": "7b1ad3f6-9da7-4d5b-a177-a55bb1ad398b",
+      "Request Type": "Refill",
+      "Created At": "2024-08-04 09:20:58.924525562 UTC",
+      "Updated At": "2024-08-04 09:20:58.924527013 UTC",
+      "Active": false,
+      "Allocation Amount": "1PiB",
+      "Signers": [
+        {
+          "Github Username": "OpenGate01",
+          "Signing Address": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
+          "Created At": "2024-08-04 09:27:10.756000000 UTC",
+          "Message CID": "bafy2bzacedjpzj4rjbtkqeckrvj5ndu74g3afbqxrgnn3mjepivfi2p27rpz4"
         }
       ]
     }
