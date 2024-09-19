@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1qiooeuhslmz5hh5fxapa7jgkuk55o3zkywwivga",
+  "Issue Number": "18",
+  "Client": {
+    "Name": "SFF Organization",
+    "Region": "Australia",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.sff.org.au/",
+    "Social Media": "https://x.com/sydfilmfest/",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Sydney Film Festival takes place at its flagship venue the State Theatre, as well as cinemas in the CBD, Newtown, Cremorne, Randwick, and more, screening films you won’t usually find in the multiplex. 12 films are selected for the Official Competition, which celebrates “courageous, audacious and cutting-edge” cinema with a $60,000 cash prize. Sydney Film Festival also presents eight other cash awards over the course of the festival. \r\n\r\nSydney Film Festival is supported by the NSW Government through Screen NSW; the Federal Government through Screen Australia; and City of Sydney the Festival’s Principal Local Government Partner. Sydney Film Festival also runs the Travelling Film Festival year-round, taking the best of international and Australian cinema to 22 regional centres around the country.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Event Management and Operations Data:\r\n\r\nFilm schedules and event details\r\nVenue information and logistics\r\nTicketing systems and booking records\r\nVolunteer management data\r\nFilm and Media Content:\r\n\r\nDigital copies or previews of films (for distribution or screening)\r\nTrailers, promotional videos, and advertisements\r\nMedia archives from previous festivals (photos, videos, interviews)\r\nCustomer Data:\r\n\r\nAudience profiles (contact details, demographics, preferences)\r\nTicket purchase history and participation data\r\nEmail subscription lists and marketing preferences\r\n\r\nSurvey and Feedback Data:\r\n\r\nAudience surveys and feedback after screenings or events\r\nAnalysis of attendee experiences to improve future festivals",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1oh3aMdQfmpF5B12JMOLP5eriLbGRn7tk?usp=sharing",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Weekly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
+    "In which geographies do you plan on making storage deals": "Greater China, Africa, North America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "will post it in the comment when sps are confirmed",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "6PiB",
+    "Single Size Dataset": "600TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1.5PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-09-19 11:05:08.750069300 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1qiooeuhslmz5hh5fxapa7jgkuk55o3zkywwivga",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
