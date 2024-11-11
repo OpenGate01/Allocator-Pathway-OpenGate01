@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1wknix5tmqq3v4si6dnogshkwm6tsphglpmuuica",
+  "Issue Number": "27",
+  "Client": {
+    "Name": "Australian Catholic University",
+    "Region": "Austria",
+    "Industry": "Education & Training",
+    "Website": "https://www.acu.edu.au/",
+    "Social Media": "https://x.com/ACUmedia",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "In a world of mass production, ACU stands for meaningful education, rewarding research, and life-changing community engagement. \r\n\r\nOur mission and values form the core of who we are as a Catholic organisation. Discover our history, structure, and our journey to be a leader in research and teaching – a goal we’re already achieving as one of the top 10 Catholic universities in the world.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Educational Content: Digital course materials, online lectures, research publications, and e-learning resources, ensuring students and educators have reliable, decentralized access.\r\n\r\nResearch Data: ACU’s research outputs, including datasets, papers, and analyses, particularly if they’re aiming to support open-access initiatives for the academic and broader community.\r\n\r\nCommunity Engagement Content: Multimedia records of community initiatives, partnerships, or events that showcase ACU’s work in meaningful community engagement.\r\n\r\nInstitutional Records: Historical archives, administrative data, and organizational documents that support the transparency and accessibility of ACU’s growth, journey, and values as a Catholic institution.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/18aNhZ0vD9iQo1RrHe49qbYIELCekKIJE?usp=sharing",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Weekly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
+    "In which geographies do you plan on making storage deals": "Greater China, North America, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "We will list the IDS in the comment place when we confirm with sps",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "1PiB",
+    "Single Size Dataset": "100TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1000 TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-11-11 11:14:01.888696084 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1wknix5tmqq3v4si6dnogshkwm6tsphglpmuuica",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
