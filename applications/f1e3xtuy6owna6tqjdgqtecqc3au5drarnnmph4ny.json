@@ -14,7 +14,7 @@
   "Project": {
     "Brief history of your project and organization": "MeTold Tech is an innovative technology company at the forefront of blending profound human emotional needs with cutting-edge blockchain technology. We are dedicated to creating a secure, private, and emotionally rich online memorial space for commemorating and remembering departed loved ones. MeTold Tech is not just a provider of technology; it’s a platform for emotional resonance, bringing memories and stories to eternal life in the digital realm.",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
-    "Describe the data being stored onto Filecoin": "Commemorative videos and photos for users\r\nContent of stories and letters written or recorded by users\r\nVisual images of digital gifts designed by users",
+    "Describe the data being stored onto Filecoin": "Commemorative videos and photos for users\nContent of stories and letters written or recorded by users\nVisual images of digital gifts designed by users",
     "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
     "How do you plan to prepare the dataset": "No response",
     "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1y0Bhw0aYhcy4KPcYbpva0ylCFNVJkRiA?usp=drive_link",
@@ -23,7 +23,7 @@
     "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
     "In which geographies do you plan on making storage deals": "Greater China, North America, Europe, Australia (continent)",
     "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS",
-    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "will disclose in the comment when sps are confirmed",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "\n        •      f03620433 (USA)\n\t•\tf03620434 (USA)\n\t•\tf03620442 (Japan)\n\t•\tf03620441 (Japan)\n\t•\tf03620447 (Singapore)\n\t•\tf03620446 (Singapore)",
     "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
   },
   "Datacap": {
