@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-09-16 02:30:04.827691107 UTC",
+    "State": "Granted",
+    "Validated At": "2025-09-16 02:35:44.611379662 UTC",
     "Validated By": "OpenGate01",
     "Active": true,
-    "Updated At": "2025-09-16 02:30:04.827695055 UTC",
+    "Updated At": "2025-09-16 02:35:44.611375320 UTC",
     "Active Request ID": "2656f7ca-0612-415f-b7c6-f5e838f5aa36",
     "On Chain Address": "f1ltwevn27ryyhnjiajegwf6bxhldrbkwtdwzb55q",
     "Multisig Address": "false",
@@ -67,9 +67,16 @@
       "Request Type": "Refill",
       "Created At": "2025-09-16 02:30:04.827698777 UTC",
       "Updated At": "2025-09-16 02:30:04.827699431 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1125899906842624B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "OpenGate01",
+          "Signing Address": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
+          "Created At": "2025-09-16 02:33:43.595000000 UTC",
+          "Message CID": "bafy2bzaceaiyxr6tlfcaw7du6isj2bzar5o22gzyy3mnuihztm65pmsjfp6k4"
+        }
+      ]
     }
   ]
 }
