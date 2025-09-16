@@ -2,6 +2,7 @@
   "Version": "1.3",
   "ID": "f1f5sn4qtqu7yr73puvnqrk66lzh3h77r7rpkofpa",
   "Issue Number": "38",
+  "Client Contract Address": "f410fi3ejzxehuqgsgxks7fyg2i3gyaqul25laechqma",
   "Client": {
     "Name": "Open Observatory of Network Interference",
     "Region": "Afghanistan",
@@ -35,15 +36,25 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-09-16 09:15:42.698086102 UTC",
+    "Validated By": "OpenGate01",
     "Active": true,
-    "Updated At": "2025-09-08 12:50:35.546642911 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-09-16 09:15:42.698089746 UTC",
+    "Active Request ID": "00688821-55fd-483a-991f-51714515bd20",
     "On Chain Address": "f1f5sn4qtqu7yr73puvnqrk66lzh3h77r7rpkofpa",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "00688821-55fd-483a-991f-51714515bd20",
+      "Request Type": "First",
+      "Created At": "2025-09-16 09:15:42.698092021 UTC",
+      "Updated At": "2025-09-16 09:15:42.698093409 UTC",
+      "Active": true,
+      "Allocation Amount": "281474976710656 B",
+      "Signers": []
+    }
+  ]
 }
