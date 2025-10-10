@@ -36,7 +36,7 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-10-10 09:02:12.456753847 UTC",
     "Validated By": "OpenGate01",
     "Active": true,
@@ -44,7 +44,7 @@
     "Active Request ID": "1bcd64f7-916f-4558-9f3d-67f051ddaf04",
     "On Chain Address": "f1f5sn4qtqu7yr73puvnqrk66lzh3h77r7rpkofpa",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
