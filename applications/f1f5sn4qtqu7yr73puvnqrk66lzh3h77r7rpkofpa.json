@@ -36,11 +36,11 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-10-10 08:29:51.644550254 UTC",
+    "State": "Granted",
+    "Validated At": "2025-10-10 09:02:12.456753847 UTC",
     "Validated By": "OpenGate01",
     "Active": true,
-    "Updated At": "2025-10-10 08:29:51.644553473 UTC",
+    "Updated At": "2025-10-10 09:02:12.456749510 UTC",
     "Active Request ID": "1bcd64f7-916f-4558-9f3d-67f051ddaf04",
     "On Chain Address": "f1f5sn4qtqu7yr73puvnqrk66lzh3h77r7rpkofpa",
     "Multisig Address": "false",
@@ -70,9 +70,18 @@
       "Request Type": "Refill",
       "Created At": "2025-10-10 08:29:51.644558467 UTC",
       "Updated At": "2025-10-10 08:29:51.644559273 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "549755813888000B",
-      "Signers": []
+      "Amount of Datacap Sent to Contract": "549755813888000B",
+      "Signers": [
+        {
+          "Github Username": "OpenGate01",
+          "Signing Address": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
+          "Created At": "2025-10-10 09:02:09.477000000 UTC",
+          "Message CID": "bafy2bzaceaio4alsdlmi2wtjfo4gxkeih7anjdtpsedhgcpyfkwnuiqpjodiq",
+          "Increase allowance CID": "bafy2bzaceamv2wvp76d6r6aq5epodc4govqyfjpei4fjkog7qiq5v35vpmztm"
+        }
+      ]
     }
   ],
   "Storage Providers Change Requests": [
