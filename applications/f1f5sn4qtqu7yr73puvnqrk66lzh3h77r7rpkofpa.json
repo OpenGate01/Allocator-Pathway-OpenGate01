@@ -36,12 +36,12 @@
     "Weekly Allocation": "500TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2025-09-17 04:19:42.537088680 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2025-10-10 08:29:51.644550254 UTC",
     "Validated By": "OpenGate01",
     "Active": true,
-    "Updated At": "2025-09-17 04:19:42.537083234 UTC",
-    "Active Request ID": "5df8d96c-14a1-4ec8-aa53-bdf53c05f321",
+    "Updated At": "2025-10-10 08:29:51.644553473 UTC",
+    "Active Request ID": "1bcd64f7-916f-4558-9f3d-67f051ddaf04",
     "On Chain Address": "f1f5sn4qtqu7yr73puvnqrk66lzh3h77r7rpkofpa",
     "Multisig Address": "false",
     "edited": false
@@ -64,6 +64,15 @@
           "Increase allowance CID": "bafy2bzaceatue2mxrskbhyfcjv4hglcfassctha7ix2nwbrjknfjygjgjbajy"
         }
       ]
+    },
+    {
+      "ID": "1bcd64f7-916f-4558-9f3d-67f051ddaf04",
+      "Request Type": "Refill",
+      "Created At": "2025-10-10 08:29:51.644558467 UTC",
+      "Updated At": "2025-10-10 08:29:51.644559273 UTC",
+      "Active": true,
+      "Allocation Amount": "549755813888000B",
+      "Signers": []
     }
   ],
   "Storage Providers Change Requests": [
