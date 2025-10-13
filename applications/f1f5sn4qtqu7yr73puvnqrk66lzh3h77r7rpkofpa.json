@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-10-10 09:02:12.456753847 UTC",
+    "Validated At": "2025-10-13 06:25:34.051016281 UTC",
     "Validated By": "OpenGate01",
     "Active": true,
-    "Updated At": "2025-10-10 09:02:12.456749510 UTC",
-    "Active Request ID": "1bcd64f7-916f-4558-9f3d-67f051ddaf04",
+    "Updated At": "2025-10-13 06:25:34.051015200 UTC",
+    "Active Request ID": "93a8dd55-23b1-4e66-a8a2-99fa6adc4431",
     "On Chain Address": "f1f5sn4qtqu7yr73puvnqrk66lzh3h77r7rpkofpa",
     "Multisig Address": "false",
     "edited": false
@@ -108,6 +108,48 @@
             "bafy2bzacedho6phizxmjkyr4u7o4iiia25na7oidd3c3rgy37op5z2wxijaq2": [
               "3289271 ",
               "3315260 ",
+              "3367915",
+              "3368008",
+              "3607310",
+              "3559187",
+              "3100006",
+              "3100007"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "ID": "4586a1e9-402c-4233-976d-fe6e2e619e4f",
+      "Created At": "2025-10-13 06:25:34.050987478 UTC",
+      "Updated At": "2025-10-13 06:25:34.050994338 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        3637821,
+        3637813,
+        3649204,
+        3649212,
+        3649217,
+        3649227
+      ],
+      "Signers": [
+        {
+          "Github Username": "OpenGate01",
+          "Signing Address": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzacebqnm3ci2tpytmdvqulibweqwqifitk4om75brw3t65hlnbgnqkra": [
+              "3637821 ",
+              "3637813 ",
+              "3649204",
+              "3649212 ",
+              "3649217 ",
+              "3649227 "
+            ]
+          },
+          "Remove Allowed Storage Providers CID": {
+            "bafy2bzacebdbk2evh2vclmb3xtpvwkgpcjne5kfvmiqbk4f5mppbii6737qny": [
+              "3289271",
+              "3315260",
               "3367915",
               "3368008",
               "3607310",
