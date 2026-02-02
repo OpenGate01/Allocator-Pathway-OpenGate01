@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1bzhpju24jokd5dbsdk3xpglkew5sctvtbtv6ria",
+  "Issue Number": "4",
+  "Client": {
+    "Name": "Move X Health",
+    "Region": "Japan",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://www.movexhealth.com/",
+    "Social Media": "https://www.linkedin.com/company/move-x-international/",
+    "Social Media Type": "Other",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "Welcome to Move X Health, where our journey began with a vision to revolutionize well-being through the power of movement.\r\n\r\nFounded in 2017 with passion and a commitment to personalized fitness, we've evolved into a beacon of health, exercise, and lifestyle integration.In our quest to redefine fitness, Move X Health has become a trailblazer in delivering tailored training programs. Our story is one of dedication, innovation, and a relentless pursuit of holistic wellness. We've grown into a comprehensive platform offering specialized programs in Health Coaching, Weight Loss, Advanced Functional Training, Ageing Health and Fitness, Musculoskeletal Care, Pain Management with Physical Rehab, and Kids Development.\r\n\r\nAt Move X Health, we're not just a fitness destination; we're a community committed to transforming lives. Join us on this exhilarating journey to discover a healthier, more vibrant you. Embrace the power of movement, and let Move X Health be your guide on the path to wellness.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Sports teaching videos, rehabilitation course videos, student profiles",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "No response",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1S9N9gFecFdDV8jD9OtvM8OIdzDAoU1iU?usp=sharing",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Weekly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, South America, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "This is the first application. Detailed information about the project will be announced at the start.",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "3PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 6,
+    "Weekly Allocation": "500TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-06-12 09:19:42.653890775 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1bzhpju24jokd5dbsdk3xpglkew5sctvtbtv6ria",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
